@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sebastienlaurent/CLionProjects/TP5_info/Exos.c
+Exos.h
+/Users/sebastienlaurent/CLionProjects/TP5_info/Exos.h
+fonction.h
+/Users/sebastienlaurent/CLionProjects/TP5_info/fonction.h
+stdio.h
+/Users/sebastienlaurent/CLionProjects/TP5_info/stdio.h
+
+/Users/sebastienlaurent/CLionProjects/TP5_info/Exos.h
+
+/Users/sebastienlaurent/CLionProjects/TP5_info/fonction.h
+
